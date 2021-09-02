@@ -1,4 +1,4 @@
-### Simple Node.js REST API.
+### Learning how to incorporate swagger ui in node js
 
 - Ensure you have [Node.js](https://nodejs.org/en/) installed on your computer.
 
@@ -8,4 +8,7 @@
 npm install
 ```
 
-- Consume the API from [Postman](https://www.postman.com/)
+- To run the code enter
+``` npm run dev ```
+
+
