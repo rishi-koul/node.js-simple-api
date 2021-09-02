@@ -9,6 +9,8 @@ npm install
 ```
 
 - To run the code enter
-``` npm run dev ```
+```bash 
+npm run dev
+```
 
 
